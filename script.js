@@ -27,8 +27,8 @@ const ThemeToggle = {
         // Toggle theme on click
         this.toggle.addEventListener('click', () => {
             const currentTheme = document.documentElement.getAttribute('data-theme');
-            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-            this.setTheme(newTheme);
+const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+this.setTheme(newTheme);
         });
     },
     
