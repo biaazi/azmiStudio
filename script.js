@@ -32,14 +32,14 @@ const ThemeToggle = {
         });
     },
     
-    setTheme(theme) {
-        if (theme === 'light') {
-            document.documentElement.setAttribute('data-theme', 'light');
-        } else {
-            document.documentElement.removeAttribute('data-theme');
-        }
-        localStorage.setItem('theme', theme);
+setTheme(theme) {
+    if (theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    } else {
+        document.documentElement.removeAttribute('data-theme');
     }
+    localStorage.setItem('theme', theme);
+}
 };
 
 /**
