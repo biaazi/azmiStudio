@@ -1,6 +1,4 @@
-/* ============================================
-   CSS Variables & Reset
-   ============================================ */
+
 :root {
     /* Color Palette - Dark Theme (Default) */
     --bg-primary: #0f0e0c;
@@ -8,7 +6,7 @@
     --bg-tertiary: #242220;
     
     --text-primary: #f5f0e8;
-    --text-secondary: #a8a29e;
+    --text-secondary: #ccc6c0;
     --text-muted: #6b6560;
     
     --accent-primary: #d4a853;
