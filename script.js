@@ -242,7 +242,7 @@ const ProjectModal = {
             year: '2025',
             overview: 'A comprehensive redesign of the Migraine Buddy mobile app, reimagining its core screens with improved navigation, an accessible customization system, and a polished dark-theme visual identity supported by a complete UI style guide and user journey mapping.',
             client: 'Migraine Buddy (Concept)',
-            role: 'UX/UI Designer',
+            role: 'UX Researcher',
             timeline: 'Academic Project',
             challenge: 'Migraine Buddy helps users track and manage migraine episodes, but its existing interface suffered from inconsistent navigation, limited accessibility options, and a visual language that didn\'t reflect the app\'s focus on user well-being. The redesign needed to simplify the recording workflow, improve discoverability of features, and introduce customization for users with sensory sensitivities, all while maintaining the data-rich functionality that existing users rely on.',
             solution: 'I redesigned five core screens, Homepage, Discover, Tracking, Records, and Features, with a cohesive dark-theme aesthetic that reduces visual strain. A dedicated Customization screen lets users adjust font style, size, color, and display presets (Indoor, Ambient, Outdoor) to suit their environment. The full design system was documented in a UI style guide covering colors, typography, grid, iconography, and button/link components.',
