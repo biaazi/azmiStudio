@@ -224,11 +224,11 @@ body:hover .cursor-glow {
     justify-content: space-between;
     align-items: center;
     padding: var(--space-md) var(--space-lg);
-    mix-blend-mode: difference;
+    mix-blend-mode: normal;
 }
 
-[data-theme="light"] .nav {
-    mix-blend-mode: normal;
+[data-theme="dark"] .nav {
+    mix-blend-mode: difference;
 }
 
 .nav-logo {
